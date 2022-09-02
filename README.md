@@ -21,10 +21,22 @@ sudo apt install npm
 ## Usage
 
 Simply run `bash javaShell.sh` from a terminal.
+
 Inside `javaShell.sh`, you can set different parameters,
 most importantly the amplification factor value ("gamma_manual" in the code).
 For more detail about the theoretical background: 
 https://www.nature.com/articles/ncomms14545
 https://www.nature.com/articles/s41467-022-29004-1
 
+## Some background info
+Horizontal lines represent hierarchical levels.
+Green lines correspond to asymmetric division,
+red lines correspond to symmetric differentiation,
+blue lines correspond to symmetric division.
 
+Circles represent cells at time "t", smaller circles around cells represent mutations.
+
+As the tree develops in time, one can see the lineages forming,
+if you hover your mouse over a cell, it also highlights its ancestor.
+
+https://imgur.com/a/bGMVpX1
