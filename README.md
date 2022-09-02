@@ -49,7 +49,10 @@ Green lines correspond to asymmetric division,
 red lines correspond to symmetric differentiation,
 blue lines correspond to symmetric division.
 
-Circles represent cells at time "t", smaller circles around cells represent mutations.
+Circles represent cells at time `t`, smaller circles around cells represent mutations.
+Numbers over cells represent the ID-s.
+The time resolution can be changed in the sketch.js file.
+
 
 As the tree develops in time, one can see the lineages forming,
 if you hover your mouse over a cell, it also highlights its ancestor.
