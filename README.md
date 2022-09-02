@@ -54,4 +54,4 @@ Circles represent cells at time "t", smaller circles around cells represent muta
 As the tree develops in time, one can see the lineages forming,
 if you hover your mouse over a cell, it also highlights its ancestor.
 
-![p5.js visualization of a lineage tree, on localhost](https://imgur.com/a/bGMVpX1)
+![p5.js visualization of a lineage tree, on localhost](./linetracer.PNG)
