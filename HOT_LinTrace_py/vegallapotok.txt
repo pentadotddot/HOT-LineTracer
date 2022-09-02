@@ -1,0 +1,28 @@
+D_n: 65
+D_n_szoras: 0
+Kihalas: 0
+ossejt acd esemenyek: 64
+ossejt scd esemenyek: 0
+ossejt scdd esemenyek: 0
+legyartando adtlag: 1025
+ossejt mutszam: 0
+Nrak: 0
+
+Az adott számú mutációval rendelkező mutánsok előfordulási valószínűsége (Instanciakken max 1...): 
+       1mut_instanc: 1
+       1mutans: 1
+Az adott számú mutációval rendelkező mutánsok előfordulási valószínűsége (Instanciakken max 1...): 
+  P_(mu,1): 2.05
+  P_(mu,2): 0.071709
+  P_(mu,3): 0.00153665
+  P_(mu,4): 2.49709e-05
+  P_(mu,5): 3.31525e-07
+  P_(mu,6): 3.7326e-09
+  P_(mu,7): 3.64735e-11
+  P_(mu,8): 3.14488e-13
+  P_(mu,9): 2.42374e-15
+  P_(mu,10): 1.6873e-17
+  P_(mu,11): 1.07041e-19
+  P_(mu,12): 6.23492e-22
+  P_(mu,13): 3.35622e-24
+  P_(mu,14): 1.67904e-26

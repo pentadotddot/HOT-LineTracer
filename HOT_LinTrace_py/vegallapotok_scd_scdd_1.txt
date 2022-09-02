@@ -1,0 +1,10 @@
+pseudo code:
+
+0. store raw data and set classese etc.
+
+1.make an array of leaves *
+2. start from leaves and search for deeper nodes until stem cell reached
+3. check how many divisions the stem cellgot until that time.
+4. store lineage data on lineage array
+
+

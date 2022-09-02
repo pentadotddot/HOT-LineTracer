@@ -1,0 +1,19 @@
+  Nrak: -nan
+Az adott számú mutációval rendelkező mutánsok előfordulási valószínűsége (Instanciakken max 1...): 
+       0mut_instanc: inf
+       0mutans: 1
+  P_(mu,1): inf
+  P_(mu,2): inf
+  P_(mu,3): inf
+  P_(mu,4): inf
+  P_(mu,5): inf
+  P_(mu,6): inf
+  P_(mu,7): inf
+  P_(mu,8): inf
+  P_(mu,9): inf
+  P_(mu,10): inf
+  P_(mu,11): inf
+  P_(mu,12): inf
+  P_(mu,13): inf
+  P_(mu,14): inf
+  P_(mu,15): -nan

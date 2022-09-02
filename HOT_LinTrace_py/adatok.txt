@@ -1,0 +1,86 @@
+.#FONTOS: a beolvasandó sorban használandó formátum "paraméter= szám" (szóközzel a megfelelő helyen)
+
+#instanciák száma
+instanciak= 1
+#legyártandó sejtek száma
+legyartando= 1024
+#szimuláció vége időegységekben
+ido= 0
+#Rákos daganatnak könyveljük el a szimulációt, ha ennyivel nagyobb a rendszer mérete (vartosszes*rakosodas pl. 300*10...)
+rakosodas= 100
+#Megallítjuk a szimulációt, ha a rendszer mérete "STOP"-szorosa (a "STOP" lehet tört is...)
+STOP= 200
+#szintek száma
+szintszam= 3
+#osztódásokénti mutációk számának várható értéke
+mutrata= 1e-03
+#s_acd
+s_acd= 0
+#s_scdd
+s_scdd= 0
+#s_scd
+s_scd= 0
+#béta
+B= 0
+#mutációk maximális száma egy sejtben
+maxMut= 15
+#gamma_manual -> ehez a nem optimális gammák kiválasztása szükséges
+gamma_manual= 4.0
+#legyen optimális a gamma? (y/n)
+flag_optimal= n
+#mutálódhat az őssejt? (y/n)
+flag_stemMut= y
+#Legyen ID kiíratás
+flag_idKiir= n
+#pk vagy qk legyen beolvasva (irj p-t vagy q-t)
+flag_pkqk= p
+#i ha idoben l ha legyartandoban m ha max mutansbanm k ha kritmutánsban (10/S számú lgalább kritikus mutációval rendelkező sejt megléténél megáll)
+flag_legyartando_ido_futas= l
+#neutrális mutációkért nyomj 'n'-t, szelekcióért csak az ossejt szinten nyomj 's'-t, szelekcio csak a progenitor szinteken 'p', mindenhol 't', 'h' ha progenitor heavyside
+flag_neutr_s= n
+#milyen driverek legyenek scd vagy scdd
+flag_driver= scd
+#legyen idoplot? (incidencia, szintadatok, ha igen nyomj y-t)
+flag_idoplotok= n
+#kimenő adatok mappa helye (teljes útvonal pl nekem ubuntun /home/mate/szakdolgozat/valami/), ha "default" akkor a saját mappába ment mint normálisan
+#egyenlőre a képeket nem tudja jó helyre rakni
+#készüljenek ábrák? (y/n)
+flag_gnuplot= n
+#delta, Nk, pk mátrix beolvasása
+matrix=
+1			1	0
+0.000125	1	1.0
+0.0025		1	1.0
+0.05		1	1.0
+1.0			1	1.0
+0.083333333	1	1.0
+0.0			1	1.0
+1.00E-008	1	1.0
+1.00E-007	1	1.0
+1.00E-006	1	1.0
+1.00E-005	1	1.0
+1.00E-004	1	1.0
+1.00E-003	1	1.0
+1.00E-002	10	1.0
+1.00E-001	10	1.0
+1			10	1.0
+1			10	1.0
+1			10	1.0
+1			10	1.0
+1			10	1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

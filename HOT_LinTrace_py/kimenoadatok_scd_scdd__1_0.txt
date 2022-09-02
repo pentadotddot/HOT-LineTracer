@@ -1,0 +1,125 @@
+Az egyes szintek adatai:
+
+szint      Nk             racd             rscd        rscdplusd               pk               qk            delta         s_osszeg
+    0       1         0.015625                0                0                0                0         0.015625                0
+    1       1                0         0.015625          0.03125                1              0.5           0.0625                0
+    2       1                0           0.0625            0.125                1              0.5             0.25                0
+    3       1                0             0.25              0.5                1              0.5                1                0
+ TERM       1                0                0                1                1                1                2                0
+
+s_scd, s_acd, s_scdd: 0,0,0
+           Beta: 0
+Tranziens idő (elméleti): 84
+Tranziens idő (mért): 107.166
+     Rátasumma: 0.246094
+ Rendszerméret: 4
+Random_seed: 156422155587
+
+A szimuláció alatt legyártott sejtek száma: 1574
+
+A szimuláció alatt differencialodott sejtek száma: 1578
+
+A szimulacio alatt eltelt ido: 1084.08
+
+D_n: 24
+
+D_max_lin: 48
+
+D_n_max: 48
+
+esemenyek szama: 1577
+
+0. szint
+sejtek osztódási számai:
+20 
+az átlagos osztódási szám: 20
+sejtek száma a szinten: 1
+ez 100%-a a vártnak (Nk)
+sejtek mutációs számai:
+0 
+az átlagos mutációs szám: 0
+ acd driverek száma:
+0 
+az átlagos n_acd szám: 0
+ scd driverek száma:
+0 
+az átlagos n_scd szám: 0
+ scdplusd driverek száma:
+0 
+az átlagos n_scdplusd szám: 0
+
+1. szint
+sejtek osztódási számai:
+
+az átlagos osztódási szám: -nan
+sejtek száma a szinten: 0
+ez 0%-a a vártnak (Nk)
+sejtek mutációs számai:
+
+az átlagos mutációs szám: -nan
+ acd driverek száma:
+
+az átlagos n_acd szám: -nan
+ scd driverek száma:
+
+az átlagos n_scd szám: -nan
+ scdplusd driverek száma:
+
+az átlagos n_scdplusd szám: -nan
+
+2. szint
+sejtek osztódási számai:
+22 
+az átlagos osztódási szám: 22
+sejtek száma a szinten: 1
+ez 100%-a a vártnak (Nk)
+sejtek mutációs számai:
+0 
+az átlagos mutációs szám: 0
+ acd driverek száma:
+0 
+az átlagos n_acd szám: 0
+ scd driverek száma:
+0 
+az átlagos n_scd szám: 0
+ scdplusd driverek száma:
+0 
+az átlagos n_scdplusd szám: 0
+
+3. szint
+sejtek osztódási számai:
+23 23 
+az átlagos osztódási szám: 23
+sejtek száma a szinten: 2
+ez 200%-a a vártnak (Nk)
+sejtek mutációs számai:
+0 0 
+az átlagos mutációs szám: 0
+ acd driverek száma:
+0 0 
+az átlagos n_acd szám: 0
+ scd driverek száma:
+0 0 
+az átlagos n_scd szám: 0
+ scdplusd driverek száma:
+0 0 
+az átlagos n_scdplusd szám: 0
+
+4. szint
+sejtek osztódási számai:
+24 24 23 23 
+az átlagos osztódási szám: 23.5
+sejtek száma a szinten: 4
+ez 400%-a a vártnak (Nk)
+sejtek mutációs számai:
+0 0 0 0 
+az átlagos mutációs szám: 0
+ acd driverek száma:
+0 0 0 0 
+az átlagos n_acd szám: 0
+ scd driverek száma:
+0 0 0 0 
+az átlagos n_scd szám: 0
+ scdplusd driverek száma:
+0 0 0 0 
+az átlagos n_scdplusd szám: 0
