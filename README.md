@@ -31,6 +31,17 @@ https://www.nature.com/articles/ncomms14545
 
 https://www.nature.com/articles/s41467-022-29004-1
 
+With `HOT_LinTrace.py`, using previously generated cell lineage trees,
+I implemented the merging process detailed here: 
+https://www.biorxiv.org/content/10.1101/2020.07.13.201004v1.
+
+Using this merging method mutations can be "placed" on the tree with different mutations rates implied.
+
+The powerful thing about this approach, is that you only need to generate a tree topology once,
+which can be a very time sensitive process, then by varying the mutation rate one can create different instances for mutation accumulation, which changes the distribution of mutations alongside the tree.
+
+This merging process can be many orders of magnitude faster than re-simulating the whole tree, especially when `N` is large (see in theoretical papers).
+
 ## Some background info
 Horizontal lines represent hierarchical levels.
 Green lines correspond to asymmetric division,
