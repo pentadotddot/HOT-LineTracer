@@ -28,6 +28,7 @@ most importantly the amplification factor value ("gamma_manual" in the code).
 For more detail about the theoretical background:
  
 https://www.nature.com/articles/ncomms14545
+
 https://www.nature.com/articles/s41467-022-29004-1
 
 ## Some background info
