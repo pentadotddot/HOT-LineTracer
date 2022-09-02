@@ -1,7 +1,8 @@
 # HOT-LineTracer
 Creates graphical representation of the development and homeostasis of a Hierarchical Tissue Organization (HOT).
-Using simulations, lineage trees can be created, which trees can be drawn using javascripts p5.js library.
-This way division and mutation lineages can be traced.
+Using simulations, lineage trees can be created, which trees can be drawn using javascripts p5.js library. 
+I also implemented the merging process (mathematical background by Imre Derényi), detailed below, which is a very powerful method to create many instances fast for different mutation distributions alongside cell lineage trees by varying the mutation rate on a priori generated tree topologies.
+
 
 ## Installation
 Tested on ubuntu 18.
